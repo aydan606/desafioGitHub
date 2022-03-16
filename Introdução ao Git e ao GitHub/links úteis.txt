@@ -1,0 +1,5 @@
+Git: https://git-scm.com/downloads
+ - Git é um sistema distribuído de versionamento de código.
+
+GitHub: https://github.com/
+ - GitHub é um site de gerenciamento de repositórios remotos.
